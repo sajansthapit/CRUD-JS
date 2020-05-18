@@ -1,0 +1,23 @@
+{
+  "name": "crudjs",
+  "version": "1.0.0",
+  "description": "CRUD using mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajansthapit/CRUD-JS.git"
+  },
+  "author": "sajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajansthapit/CRUD-JS/issues"
+  },
+  "homepage": "https://github.com/sajansthapit/CRUD-JS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
